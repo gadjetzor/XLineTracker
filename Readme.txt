@@ -33,3 +33,7 @@ Position the application on a secondary monitor or in a corner where you can see
 Use the "Hide Players" option to save screen space when you don't need to see the full list
 The "Refresh" button will force the application to check for the latest log file if a new one has been created
 The application works with EVE Frontier's chat log format that includes timestamps like: [ 2025.03.23 01:45:22 ]
+
+
+----Stand Alone Version-----
+https://1drv.ms/u/c/cc9ffd28058a5419/EYcetuuYiJJJlohEUAeCUoIB1JGB9RntP28J8Iz8dmZUcA?e=5hhjko
