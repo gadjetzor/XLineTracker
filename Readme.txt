@@ -1,5 +1,5 @@
 Overview
-X-Line Tracker is a compact utility for EVE Frontier players to track "x" responses in chat channels. When conducting fleet formations, corporation roll calls, or organizing group activities, this tool automatically counts players who respond with "x" in the selected channel and provides a convenient way to see who has already checked in.
+X-Line Tracker is a compact utility for EVE Frontier players to track "x" responses in chat channels. When conducting fleet formations, corporation roll calls, or organizing group activities, this too[...]
 
 Features
 Channel Selection: Automatically detects available chat channels from your EVE Frontier logs
@@ -34,6 +34,5 @@ Use the "Hide Players" option to save screen space when you don't need to see th
 The "Refresh" button will force the application to check for the latest log file if a new one has been created
 The application works with EVE Frontier's chat log format that includes timestamps like: [ 2025.03.23 01:45:22 ]
 
-
-----Stand Alone Version-----
-https://1drv.ms/u/c/cc9ffd28058a5419/EYcetuuYiJJJlohEUAeCUoIB1JGB9RntP28J8Iz8dmZUcA?e=5hhjko
+Standalone Version
+Download the standalone version of the application from [this link](https://1drv.ms/u/c/cc9ffd28058a5419/EYcetuuYiJJJlohEUAeCUoIB1JGB9RntP28J8Iz8dmZUcA?e=5hhjko)
